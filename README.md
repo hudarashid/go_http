@@ -1,4 +1,4 @@
-This is a playground Goo project with a simple web request using standard net/http Go library.
+This is a playground Go project with a simple web request using standard net/http Go library.
 
 _09-03-2025_
 
